@@ -1,0 +1,29 @@
+
+{
+ "name": "flare",
+ "children": [
+
+  {
+   "name": "analytics",
+   "children": [
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "praveen", "size": 39},
+      {"name": "praveen", "size": 29},
+      {"name": "praveen", "size": 19},
+      {"name": "praveen", "size": 12},
+      {"name": "praveen", "size": 13}
+      
+  				 ]
+    }
+          	   ]
+  }
+  
+  
+  
+  
+  
+  
+			 ]
+}

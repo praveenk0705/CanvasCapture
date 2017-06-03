@@ -1,0 +1,7 @@
+/*C3*/SET SCHEMA PUBLIC
+CONNECT USER SA
+DISCONNECT
+/*C4*/SET SCHEMA PUBLIC
+CONNECT USER SA
+alter table contributions add column age integer
+alter table contributions add column city varchar(255)
